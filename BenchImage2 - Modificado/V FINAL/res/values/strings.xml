@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BenchImage</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="but_inicia_local">Inicia Local</string>
+    <string name="but_inicia_cloudlet">Inicia Cloudlet</string>
+    <string name="but_inicia_nuvem">Inicia Nuvem</string>
+    <string name="menu_act_cloudlet">IP Cloudlet</string>
+    <string name="menu_act_export">Exportar Banco</string>
+    <string name="numero_sorteio">0000</string>
+    <string name="string_sorteio">Numero do Sorteio</string>
+    <string name="sem_atividade">Sem Atividade</string>
+    <string name="frase_inicial">Inicie o Processamento Local!!</string>
+    
+    
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="alert_exit_title">Sair</string>
+    <string name="alert_exit_message">Deseja encerrar aplicação?</string>
+</resources>
